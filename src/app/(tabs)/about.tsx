@@ -7,7 +7,7 @@ export default function About() {
     <View style={styles.container}>
       <Text style={styles.title}>กินในงบ 🍜</Text>
       <Text style={styles.text}>แอปช่วยเลือกเมนูไม่ให้เกินงบ</Text>
-      <Text style={styles.text}>ผู้พัฒนา: ชื่อ นามสกุล (รหัสนักศึกษา)</Text>
+      <Text style={styles.text}>ศศิพิมพ์ เปรมกิจ(6823765562)</Text>
       <Text style={styles.muted}>dX212 Mobile Programming · คาบ 9</Text>
     </View>
   );
